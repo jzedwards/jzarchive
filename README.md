@@ -1,2 +1,3 @@
 # jzarchive
-archive of general stuff
+a bucket for stuff
+could have all kinds of anything
